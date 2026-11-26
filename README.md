@@ -31,6 +31,9 @@ checkpoint4_santiago_garabelli..json:  archivo de exportación del
 workflow.
 README.md: documentacion tegnica del proyecto
 
+## Evidencia de integraciones
+Credenciales configuradas en n8n, Las claves y tokens de acceso no se publican por motivos de confidencialidad y/o seguridad.
+
 ## Autor
 **Santiago Garabelli**
-#**Al Automation Avanzado - coderhouse**
+#**Al Automation Avanzado -- coderhouse**
